@@ -1,0 +1,19 @@
+{
+  "name": "feedback-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cds-snc/feedback-plugin.git"
+  },
+  "author": "cds-snc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cds-snc/feedback-plugin/issues"
+  },
+  "homepage": "https://github.com/cds-snc/feedback-plugin#readme"
+}
