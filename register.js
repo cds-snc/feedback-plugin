@@ -4,7 +4,7 @@ const path = require('path')
 const plugins = [{ name: 'feedback' }]
 
 // plugin setup
-const { addViewPath } = require('../utils/view.helpers')
+const { addViewPath } = require('../../utils/view.helpers')
 const registerPlugins = (app, pluginsConfig = plugins) => {
   pluginsConfig.forEach(plugin => {
     const name = plugin.name
