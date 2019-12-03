@@ -67,8 +67,8 @@
         });
         // post form data asynchronously 
         async function sendFeedback(form) {
-            let endPoint, // = "https://cds-feedback-collector.herokuapp.com/en/send?id=",
-            response;
+            let endPoint = {% block endpoint %}{% endblock %}
+            let response;
             
             const inlineFeedbackConfirmationEl = fbkEl.querySelector('.confirmation'),
             formData = new FormData(form),
