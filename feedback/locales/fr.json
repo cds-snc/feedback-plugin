@@ -1,0 +1,18 @@
+{
+  "required": "required",
+  "inline-feedback.footer-expand-link": "Y a-t-il un problème?",
+  "inline-feedback.close": "FR Close",
+  "inline-feedback.title": "Y a-t-il un problème?",
+  "inline-feedback.contact-1": "Si vous avez besoin de l’aide d’une personne… [insert info here]",
+  "inline-feedback.contact-2": "Si vous avez besoin d’obtenir le contenu dans un autre format (gros caractères, Braille, audio), [contactez…]",
+  "form.midservice_feedback.type": "De quel type de problème s’agit-il?",
+  "Incorrect or confusing information on this page": "Information erronée ou portant à confusion dans la page",
+  "This page does not work with your screen reader or other adaptive technology": "Page non fonctionnelle avec votre lecteur d’écran ou une autre technologie d’adaptation",
+  "You could not complete [product-specific service/task]": "Impossible d’effectuer [product-specific task]",
+  "[product specific issue e.g.: “You’re missing documents”]": "[product specific issue e.g.: “You’re missing documents”]",
+  "You’re worried about your privacy": "Inquiétude au sujet de la protection de vos renseignements personnels",
+  "Other": "Autre",
+  "form.midservice_feedback.text": "Pouvez-vous nous en dire davantage?",
+  "form.midservice_feedback.text.hint": "N’incluez aucune information personnelle ou financière.",
+  "inline-feedback.submit": "FR Submit"
+}
