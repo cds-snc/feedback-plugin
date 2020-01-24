@@ -1,6 +1,7 @@
 # feedback-plugin
 A plugin to display feedback in the starter repo
-Guidance for Designers, Researchers and Developers: 
+
+[Guidance for Designers, Researchers and Developers](https://github.com/cds-snc/feedback-plugin/blob/master/Guidance%20for%20collecting%20feedback.pdf).
 
 ## Setting up the frontend components
 
