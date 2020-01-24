@@ -1,5 +1,6 @@
 # feedback-plugin
 A plugin to display feedback in the starter repo
+Guidance for Designers, Researchers and Developers: 
 
 ## Setting up the frontend components
 
